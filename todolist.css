@@ -1,0 +1,50 @@
+body{
+  
+    font:normal normal 13px/16px "Open Sans",sans-serif;
+    background:linear-gradient(to top,rgb(225, 225, 140) ,rgb(214, 172, 179),rgb(191, 228, 191));
+
+}
+.container{
+    box-shadow: 10px 10px rgb(53, 194, 240);
+    padding:25px;
+    margin:40px auto;
+    background-color: antiquewhite;
+    border-radius:10px;
+    width:400px;
+}
+form{
+    display:inline-block;
+}
+input{
+    padding:5px 15px;
+    border-radius: 5px;
+}
+#addToList{
+    display:inline-block;
+    background-color: rgba(85, 39, 175, 0.808);
+    color:rgb(169, 169, 69);
+    border-radius: 5px;
+    text-align:center;
+    margin:20px;
+    padding:5px 15px;
+}
+#addToList:hover{
+    opacity:0.7;
+    cursor:pointer;
+}
+ol{
+    padding:20px;
+
+}
+ol li{
+    padding:5px;
+    color:rgb(23, 22, 22)
+
+}
+li:hover{
+    cursor:pointer;
+    color: red;
+}
+.strike{
+    text-decoration: line-through;
+}
