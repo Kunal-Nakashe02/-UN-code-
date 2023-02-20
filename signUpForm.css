@@ -1,0 +1,89 @@
+#main{
+    background-color: rgb(8, 8, 65);
+    border: 1px solid grey;
+    width: 700px;
+    height: 800px;
+    font-size: 20px;
+    color: rgb(146, 114, 32);
+  margin-left: 100px;
+}
+#in{
+    margin-left: 120px;
+}
+h3{
+background-color: gold;
+padding: 15px;
+color:rgb(113, 123, 40);
+font-size: 25px;
+margin-top:1px;
+border-bottom:2px solid wheat;
+}
+.namelabel{
+    margin-left:32px;
+    color: rgb(146, 114, 32);
+}
+.name{
+    height:35px;
+   width: 400px;
+    margin-left: 31px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+select{
+    margin-left: 30px;
+    height: 37px;
+    width:140px;
+    margin-left: 26px;
+}
+#day{
+    width:60px;
+}
+.Gender{
+     margin-left: 40px;
+}
+#country{
+    margin-left: 53px;
+}
+#countryopt{
+    margin-left: 33px;
+    height: 40px;
+    width:405px;
+}
+.remains{
+    height:35px;
+    width:400px;
+    margin-left: 50px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.mail{
+    margin-left: 46px;
+    
+}
+button{
+    height: 40px;
+    width: 130px;
+   border-radius: 10px;
+}
+#btn{
+    background-color: gold;
+    margin-left: 100px;
+    width: 680px;
+    padding: 10px;
+}
+#btn1{
+    background-color: rgb(156, 20, 20);
+    margin-left: 416px;
+   
+}
+#btn2{
+    background-color: rgb(40, 130, 40);
+}
+#btn1:hover{
+    background-color: rgb(125, 4, 4);
+   
+}
+#btn2:hover{
+    background-color: rgb(16, 222, 16);
+    
+}
