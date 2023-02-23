@@ -1,0 +1,15 @@
+*{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 10px;
+}
+
+
+ol li{
+  font-size: 20px;
+}
+img{
+  height: 150px;
+}
+footer{
+  font-size: 15px;
+}
