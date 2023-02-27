@@ -1,0 +1,266 @@
+//background image
+body{
+    background: url("/bg\ \(1\).jpeg");
+}
+//input box
+.search{
+
+    max-width: 1400px;
+    width: 800px;
+    height: 40px;
+    border-radius: 10px;
+    background-color:thistle;
+}
+
+.btnsearch{
+    border-radius: 10px;
+    height: 45px;
+    width: 200px;
+    margin: 10px;
+    background-color: rgba(22, 219, 84, 0.548);
+}
+
+.btnsearch i{
+    margin: 10px;
+}
+.nav{
+    height: 360px;
+    width: 400px;
+}
+
+//nav of home and all buttons
+.GEO{
+    margin-left: 30px;
+    margin-top: 30px;
+     color: red;
+    font-size: 200%;
+}
+.home-bar{
+    font-size: larger;
+   margin-left: 400PX;
+   font-style: oblique;
+   margin-bottom: 30px;
+}
+.home-bar a:hover{
+    color: red;
+}
+.home-bar a{
+    text-decoration: none;  
+    color: white;  
+    margin: 20px;
+  
+}
+
+//nav all images
+
+.list{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-bottom: 50px; 
+}
+
+
+//WELCOME TEXT ALL
+.welcome{
+    font-style: italic;
+    text-align: center;
+    color: rgba(226, 226, 238, 0.612);
+    font-size: 100px;
+}
+
+.list li {
+    height: 200px;
+   display: inline;
+   margin: 20px;
+
+}
+// text about hotel.
+.wehave{
+    margin-top: 100px;
+    color: rgb(221, 179, 9);
+        margin-left: 60px;
+}
+.btn12{
+    margin-left: 60px; 
+    background-color: aquamarine;
+    height: 30px;
+    width: 150px;
+}
+.btn12:hover{
+    background-color: aqua;
+}
+
+
+//line ====
+.line {
+    font-size:17px;
+    display: inline;
+    color: white;
+     height: 100px;
+    padding: 50px;
+    margin-top: 900px;
+    opacity: 0.6;
+    background: linear-gradient(to left ,rgb(50, 47, 47),black,rgb(105, 105, 104));
+}
+.one{
+//   background: linear-gradient(to left ,rgb(50, 47, 47),black,rgb(105, 105, 104));
+    display: inline-table;
+    margin-top: 800px;
+    height: 50px;
+    padding: 40px;
+    margin: 30px;
+
+}
+
+
+//specialities
+
+    
+
+.specialities{
+    text-align: center;
+    background-color: aliceblue;
+    height: 450px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ .specs{
+    display: inline-block;
+    background-color: rgb(246, 238, 238);
+   margin: 20px;
+   text-align: center;
+   height: 300px;
+   width: 320px;
+}
+
+
+.spec-1 i{
+    text-align: center;
+    height: 10px;
+    width: 19px;
+    background-color: red;
+    padding: 30px;
+    border: 3px solid rgb(28, 178, 15);
+    border-radius: 100%;
+    margin-right: 80px;
+  
+}
+.spec-2 i{
+    text-align: center;
+    height: 10px;
+    width: 19px;
+    background-color: red;
+    padding: 30px;
+    border: 3px solid rgb(28, 178, 15);
+    border-radius: 100%;
+    margin-right: 80px;
+}
+.spec-3 i{
+    text-align: center;
+    height: 10px;
+    width: 19px;
+    background-color: red;
+    padding: 30px;
+    border: 3px solid rgb(28, 178, 15);
+    border-radius: 100%;
+    margin-right: 80px;
+}
+.spec-4 i{
+    text-align: center;
+    height: 10px;
+    width: 19px;
+    background-color: red;
+    padding: 30px;
+    border: 3px solid rgb(227, 227, 240);
+    border-radius: 100%;
+    margin-right: 80px;
+}
+
+
+//name of restauurent.
+.georgia{
+    font-style: italic;
+    text-align: center;
+    color: rgba(226, 226, 238, 0.612);
+    font-size: 50px;
+}
+.georgia-info{
+    font-style: italic;
+    text-align: center;
+    color: rgba(226, 226, 238, 0.612);
+    font-size: 50px;
+}
+
+//items and details
+.items{
+    background:url(https://png.pngtree.com/thumb_back/fh260/background/20190220/ourmid/pngtree-food-spicy-and-seductive-lobster-shellfish-chinese-meal-background-image_6705.jpg);
+    height: 500px;
+    width: 400px;
+    border-radius: 50px;
+}
+.items img{
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.item-details{
+    text-align: center;
+    font-size: 150%;
+    font-style: oblique;
+    color: aliceblue;
+}
+.item-btn{
+    height: 40px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: cadetblue;
+}
+.item-btn:hover{
+    opacity: 0.8;
+    background-color: green;
+}
+// heading of items.
+.head-item{
+    color: azure;
+    text-align: center;
+    font-style: oblique;
+    margin-bottom: 100px;
+    font-size: 100px;
+}
+
+//all itmems alligning.
+
+
+.item2{
+    position: relative;
+    left: 550px;
+    bottom: 500px;
+}
+.item3{
+    position: relative;
+    left: 1050px;
+    bottom: 1000px;
+}
+.item4{
+    position: relative;
+    bottom: 900px;
+}
+
+.item5{
+    position: relative;
+    left: 550px;
+    bottom: 1400px;
+}
+
+.item6{
+    position: relative;
+    left: 1050px;
+    bottom: 1900px;
+}
+
+i{
+    margin-left: 70px;
+    color:cornsilk;
+}
